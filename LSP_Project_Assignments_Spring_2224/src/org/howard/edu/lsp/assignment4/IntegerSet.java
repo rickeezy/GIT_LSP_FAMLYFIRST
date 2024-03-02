@@ -3,6 +3,7 @@ package org.howard.edu.lsp.assignment4;
 import java.util.ArrayList;
 import java.util.List;
 
+//Rickelle Jones
 
 /**
  * Represents a set of integers. 

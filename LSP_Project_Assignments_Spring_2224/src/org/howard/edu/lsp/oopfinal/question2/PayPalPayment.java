@@ -1,4 +1,4 @@
-// File: PayPalPayment.java
+//Rickelle Jones
 package org.howard.edu.lsp.oopfinal.question2;
 
 public class PayPalPayment implements PaymentStrategy {

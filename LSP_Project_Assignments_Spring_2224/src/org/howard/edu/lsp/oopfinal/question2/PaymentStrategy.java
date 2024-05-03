@@ -1,4 +1,4 @@
-// File: PaymentStrategy.java
+//Rickelle Jones
 package org.howard.edu.lsp.oopfinal.question2;
 
 interface PaymentStrategy {

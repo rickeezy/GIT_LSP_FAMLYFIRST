@@ -1,4 +1,4 @@
-// File: SongsDB.java
+// Rickelle Jones
 package org.howard.edu.lsp.oopfinal.question1;
 
 import static org.junit.Assert.assertEquals;
